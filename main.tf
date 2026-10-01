@@ -20,3 +20,5 @@ resource "terraform_data" "deployment" {
     managed_by  = "terraform"
   }
 }
+
+# PR protection test
